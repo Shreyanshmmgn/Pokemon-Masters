@@ -1,0 +1,1933 @@
+fileFormatVersion: 2
+guid: c9edf4fb389bc09449b10f813d3be2ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6773117321462781919
+    second: PikPng.com_juggalo-logo-png_4050105_0
+  - first:
+      213: 699049642293238045
+    second: PikPng.com_juggalo-logo-png_4050105_1
+  - first:
+      213: 8534775595026250796
+    second: PikPng.com_juggalo-logo-png_4050105_2
+  - first:
+      213: -6546545339643223347
+    second: PikPng.com_juggalo-logo-png_4050105_3
+  - first:
+      213: 4797895850396602262
+    second: PikPng.com_juggalo-logo-png_4050105_4
+  - first:
+      213: 4180324061195754432
+    second: PikPng.com_juggalo-logo-png_4050105_5
+  - first:
+      213: -5197023960413569385
+    second: PikPng.com_juggalo-logo-png_4050105_6
+  - first:
+      213: -4303435356193838621
+    second: PikPng.com_juggalo-logo-png_4050105_7
+  - first:
+      213: -1380141406558798774
+    second: PikPng.com_juggalo-logo-png_4050105_8
+  - first:
+      213: 5487058797558430947
+    second: PikPng.com_juggalo-logo-png_4050105_9
+  - first:
+      213: 2299264915399899669
+    second: PikPng.com_juggalo-logo-png_4050105_10
+  - first:
+      213: 8655202885003977621
+    second: PikPng.com_juggalo-logo-png_4050105_11
+  - first:
+      213: -3842095457251715572
+    second: PikPng.com_juggalo-logo-png_4050105_12
+  - first:
+      213: 3493977298023026894
+    second: PikPng.com_juggalo-logo-png_4050105_13
+  - first:
+      213: 1212124322153484823
+    second: PikPng.com_juggalo-logo-png_4050105_14
+  - first:
+      213: -5095993583098257959
+    second: PikPng.com_juggalo-logo-png_4050105_15
+  - first:
+      213: -5408114938874712609
+    second: PikPng.com_juggalo-logo-png_4050105_16
+  - first:
+      213: 8834977978183174075
+    second: PikPng.com_juggalo-logo-png_4050105_17
+  - first:
+      213: -8161395307253899034
+    second: PikPng.com_juggalo-logo-png_4050105_18
+  - first:
+      213: 1148044639000128352
+    second: PikPng.com_juggalo-logo-png_4050105_19
+  - first:
+      213: 8052235204390038678
+    second: PikPng.com_juggalo-logo-png_4050105_20
+  - first:
+      213: 1534118335462073374
+    second: PikPng.com_juggalo-logo-png_4050105_21
+  - first:
+      213: -1497368591018981443
+    second: PikPng.com_juggalo-logo-png_4050105_22
+  - first:
+      213: 6743602564576054170
+    second: PikPng.com_juggalo-logo-png_4050105_23
+  - first:
+      213: 7276870991121178724
+    second: PikPng.com_juggalo-logo-png_4050105_24
+  - first:
+      213: 7410573565238767960
+    second: PikPng.com_juggalo-logo-png_4050105_25
+  - first:
+      213: 661828431300757623
+    second: PikPng.com_juggalo-logo-png_4050105_26
+  - first:
+      213: -6314369311998074668
+    second: PikPng.com_juggalo-logo-png_4050105_27
+  - first:
+      213: 6992623826715345207
+    second: PikPng.com_juggalo-logo-png_4050105_28
+  - first:
+      213: 7915216111640931395
+    second: PikPng.com_juggalo-logo-png_4050105_29
+  - first:
+      213: 86274718536359324
+    second: PikPng.com_juggalo-logo-png_4050105_30
+  - first:
+      213: 6515233055446944488
+    second: PikPng.com_juggalo-logo-png_4050105_31
+  - first:
+      213: 5083654194954731506
+    second: PikPng.com_juggalo-logo-png_4050105_32
+  - first:
+      213: 4542773159845617960
+    second: PikPng.com_juggalo-logo-png_4050105_33
+  - first:
+      213: -2937106258672992424
+    second: PikPng.com_juggalo-logo-png_4050105_34
+  - first:
+      213: -6180110774798461542
+    second: PikPng.com_juggalo-logo-png_4050105_35
+  - first:
+      213: 8605531201122194602
+    second: PikPng.com_juggalo-logo-png_4050105_36
+  - first:
+      213: 8649588008944499652
+    second: PikPng.com_juggalo-logo-png_4050105_37
+  - first:
+      213: 3166818491672431304
+    second: PikPng.com_juggalo-logo-png_4050105_38
+  - first:
+      213: 9135821820325538520
+    second: PikPng.com_juggalo-logo-png_4050105_39
+  - first:
+      213: 5213846819001273042
+    second: PikPng.com_juggalo-logo-png_4050105_40
+  - first:
+      213: -7101701683110652525
+    second: PikPng.com_juggalo-logo-png_4050105_41
+  - first:
+      213: -1618776216408779560
+    second: PikPng.com_juggalo-logo-png_4050105_42
+  - first:
+      213: -1401506991665118212
+    second: PikPng.com_juggalo-logo-png_4050105_43
+  - first:
+      213: 7456998860714559317
+    second: PikPng.com_juggalo-logo-png_4050105_44
+  - first:
+      213: 1311595746701043462
+    second: PikPng.com_juggalo-logo-png_4050105_45
+  - first:
+      213: 7415856165804205346
+    second: PikPng.com_juggalo-logo-png_4050105_46
+  - first:
+      213: 6548532917793285136
+    second: PikPng.com_juggalo-logo-png_4050105_47
+  - first:
+      213: -7194444552111815586
+    second: PikPng.com_juggalo-logo-png_4050105_48
+  - first:
+      213: -4239519584047792592
+    second: PikPng.com_juggalo-logo-png_4050105_49
+  - first:
+      213: -5034080992206722286
+    second: PikPng.com_juggalo-logo-png_4050105_50
+  - first:
+      213: -4205861071802923441
+    second: PikPng.com_juggalo-logo-png_4050105_51
+  - first:
+      213: 1230763529603155792
+    second: PikPng.com_juggalo-logo-png_4050105_52
+  - first:
+      213: -2817058328444783105
+    second: PikPng.com_juggalo-logo-png_4050105_53
+  - first:
+      213: -1534742683981217340
+    second: PikPng.com_juggalo-logo-png_4050105_54
+  - first:
+      213: 4740670003779984588
+    second: PikPng.com_juggalo-logo-png_4050105_55
+  - first:
+      213: -4724012227338908848
+    second: PikPng.com_juggalo-logo-png_4050105_56
+  - first:
+      213: -5686158295116557834
+    second: PikPng.com_juggalo-logo-png_4050105_57
+  - first:
+      213: -4861274622012057543
+    second: PikPng.com_juggalo-logo-png_4050105_58
+  - first:
+      213: 207792353072474186
+    second: PikPng.com_juggalo-logo-png_4050105_59
+  - first:
+      213: 3161940713881584462
+    second: PikPng.com_juggalo-logo-png_4050105_60
+  - first:
+      213: 5551106030444382330
+    second: PikPng.com_juggalo-logo-png_4050105_61
+  - first:
+      213: 7665538124112106278
+    second: PikPng.com_juggalo-logo-png_4050105_62
+  - first:
+      213: 5152938442825331886
+    second: PikPng.com_juggalo-logo-png_4050105_63
+  - first:
+      213: 1710882406529874594
+    second: PikPng.com_juggalo-logo-png_4050105_64
+  - first:
+      213: 8698136181167392464
+    second: PikPng.com_juggalo-logo-png_4050105_65
+  - first:
+      213: 498268879900516789
+    second: PikPng.com_juggalo-logo-png_4050105_66
+  - first:
+      213: -4430128849325575225
+    second: PikPng.com_juggalo-logo-png_4050105_67
+  - first:
+      213: -4769412169053665234
+    second: PikPng.com_juggalo-logo-png_4050105_68
+  - first:
+      213: 8999923529614224346
+    second: PikPng.com_juggalo-logo-png_4050105_69
+  - first:
+      213: -805982720666102253
+    second: PikPng.com_juggalo-logo-png_4050105_70
+  - first:
+      213: -4736401578168955109
+    second: PikPng.com_juggalo-logo-png_4050105_71
+  - first:
+      213: -4908088497452972473
+    second: PikPng.com_juggalo-logo-png_4050105_72
+  - first:
+      213: -1386235193176532394
+    second: PikPng.com_juggalo-logo-png_4050105_73
+  - first:
+      213: -6312632204336394860
+    second: PikPng.com_juggalo-logo-png_4050105_74
+  - first:
+      213: 5209695611121463200
+    second: PikPng.com_juggalo-logo-png_4050105_75
+  - first:
+      213: -1803315076232229614
+    second: PikPng.com_juggalo-logo-png_4050105_76
+  - first:
+      213: -2451960193251590611
+    second: PikPng.com_juggalo-logo-png_4050105_77
+  - first:
+      213: 510192786473150490
+    second: PikPng.com_juggalo-logo-png_4050105_78
+  - first:
+      213: 3019818362516192520
+    second: PikPng.com_juggalo-logo-png_4050105_79
+  - first:
+      213: -1637780142320747330
+    second: PikPng.com_juggalo-logo-png_4050105_80
+  - first:
+      213: 3241476811346654162
+    second: PikPng.com_juggalo-logo-png_4050105_81
+  - first:
+      213: -8392545712870884528
+    second: PikPng.com_juggalo-logo-png_4050105_82
+  - first:
+      213: -6235583626573410491
+    second: PikPng.com_juggalo-logo-png_4050105_83
+  - first:
+      213: -2437289306228253848
+    second: PikPng.com_juggalo-logo-png_4050105_84
+  - first:
+      213: 1628560025756009456
+    second: PikPng.com_juggalo-logo-png_4050105_85
+  - first:
+      213: 4804492454880022045
+    second: PikPng.com_juggalo-logo-png_4050105_86
+  - first:
+      213: 5867224340952397001
+    second: PikPng.com_juggalo-logo-png_4050105_87
+  - first:
+      213: 4186661370126077613
+    second: PikPng.com_juggalo-logo-png_4050105_88
+  - first:
+      213: 6288040498653760152
+    second: PikPng.com_juggalo-logo-png_4050105_89
+  - first:
+      213: 4151594694199244367
+    second: PikPng.com_juggalo-logo-png_4050105_90
+  - first:
+      213: 7825475175894069310
+    second: PikPng.com_juggalo-logo-png_4050105_91
+  - first:
+      213: -3249014090539390991
+    second: PikPng.com_juggalo-logo-png_4050105_92
+  - first:
+      213: 4611735493806002986
+    second: PikPng.com_juggalo-logo-png_4050105_93
+  - first:
+      213: -1627290103472782260
+    second: PikPng.com_juggalo-logo-png_4050105_94
+  - first:
+      213: 1337139838850223786
+    second: PikPng.com_juggalo-logo-png_4050105_95
+  - first:
+      213: -3792286116303568524
+    second: PikPng.com_juggalo-logo-png_4050105_96
+  - first:
+      213: 3405409800638977746
+    second: PikPng.com_juggalo-logo-png_4050105_97
+  - first:
+      213: 8644127140828676982
+    second: PikPng.com_juggalo-logo-png_4050105_98
+  - first:
+      213: 5831139954529461031
+    second: PikPng.com_juggalo-logo-png_4050105_99
+  - first:
+      213: 7003674185629777430
+    second: PikPng.com_juggalo-logo-png_4050105_100
+  - first:
+      213: -8802463649031045927
+    second: PikPng.com_juggalo-logo-png_4050105_101
+  - first:
+      213: 1083412114985860239
+    second: PikPng.com_juggalo-logo-png_4050105_102
+  - first:
+      213: 2085327903237828210
+    second: PikPng.com_juggalo-logo-png_4050105_103
+  - first:
+      213: 401877700941537145
+    second: PikPng.com_juggalo-logo-png_4050105_104
+  - first:
+      213: 83694287421248472
+    second: PikPng.com_juggalo-logo-png_4050105_105
+  - first:
+      213: -3843878766073386874
+    second: PikPng.com_juggalo-logo-png_4050105_106
+  - first:
+      213: -7363049183332138894
+    second: PikPng.com_juggalo-logo-png_4050105_107
+  - first:
+      213: 116655415232735337
+    second: PikPng.com_juggalo-logo-png_4050105_108
+  - first:
+      213: -3159088329160365051
+    second: PikPng.com_juggalo-logo-png_4050105_109
+  - first:
+      213: -900960505177652703
+    second: PikPng.com_juggalo-logo-png_4050105_110
+  - first:
+      213: 7136080417755674134
+    second: PikPng.com_juggalo-logo-png_4050105_111
+  - first:
+      213: 1833900410792835851
+    second: PikPng.com_juggalo-logo-png_4050105_112
+  - first:
+      213: -305932625000223547
+    second: PikPng.com_juggalo-logo-png_4050105_113
+  - first:
+      213: -4194379227408666807
+    second: PikPng.com_juggalo-logo-png_4050105_114
+  - first:
+      213: 1900713535723619758
+    second: PikPng.com_juggalo-logo-png_4050105_115
+  - first:
+      213: 5121700999904203007
+    second: PikPng.com_juggalo-logo-png_4050105_116
+  - first:
+      213: -5653097230090080684
+    second: PikPng.com_juggalo-logo-png_4050105_117
+  - first:
+      213: -7975626957474516047
+    second: PikPng.com_juggalo-logo-png_4050105_118
+  - first:
+      213: 3641112744904743345
+    second: PikPng.com_juggalo-logo-png_4050105_119
+  - first:
+      213: 6994504734484860735
+    second: PikPng.com_juggalo-logo-png_4050105_120
+  - first:
+      213: -3198040459972326989
+    second: PikPng.com_juggalo-logo-png_4050105_121
+  - first:
+      213: -6179641109260245648
+    second: PikPng.com_juggalo-logo-png_4050105_122
+  - first:
+      213: -3066487026574636494
+    second: PikPng.com_juggalo-logo-png_4050105_123
+  - first:
+      213: 3793899495192412145
+    second: PikPng.com_juggalo-logo-png_4050105_124
+  - first:
+      213: 111632173575254410
+    second: PikPng.com_juggalo-logo-png_4050105_125
+  - first:
+      213: -3070750762912979912
+    second: PikPng.com_juggalo-logo-png_4050105_126
+  - first:
+      213: 77011675659349431
+    second: PikPng.com_juggalo-logo-png_4050105_127
+  - first:
+      213: 7726662944056585156
+    second: PikPng.com_juggalo-logo-png_4050105_128
+  - first:
+      213: -5723912583020920789
+    second: PikPng.com_juggalo-logo-png_4050105_129
+  - first:
+      213: -3717741172441608709
+    second: PikPng.com_juggalo-logo-png_4050105_130
+  - first:
+      213: 3166816863582005383
+    second: PikPng.com_juggalo-logo-png_4050105_131
+  - first:
+      213: -4733438961670408703
+    second: PikPng.com_juggalo-logo-png_4050105_132
+  - first:
+      213: -1167326721044969650
+    second: PikPng.com_juggalo-logo-png_4050105_133
+  - first:
+      213: -6088274001203473326
+    second: PikPng.com_juggalo-logo-png_4050105_134
+  - first:
+      213: 7598143455044330427
+    second: PikPng.com_juggalo-logo-png_4050105_135
+  - first:
+      213: 1854754062828560382
+    second: PikPng.com_juggalo-logo-png_4050105_136
+  - first:
+      213: -8003787510488731715
+    second: PikPng.com_juggalo-logo-png_4050105_137
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 778
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078f1c03f9aa03468ce86af085cdb20
+      internalID: -6546545339643223347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 781
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53e98d63bc842c45bb807fad76f1f3a
+      internalID: 4180324061195754432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 781
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb581b1f553e7d43a3a1b7629c94139
+      internalID: -5197023960413569385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 781
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5b47f053c16a943baaf26296b43ecd
+      internalID: 2299264915399899669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 781
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5bd5ea41076964e9f23714297ee20d
+      internalID: -3842095457251715572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 193
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a982aa9ef0ff35944bfdbdcd988390e4
+      internalID: 1212124322153484823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_15
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 781
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463940f5c26278b4790a8c60324a3177
+      internalID: -5095993583098257959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 780
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b843763768e72d94a87e58b866acef7b
+      internalID: 8834977978183174075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 778
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2629b481e292e43a308bacc8866719
+      internalID: -8161395307253899034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 734
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b184f08c50554aa6abe762ebf432e
+      internalID: 1534118335462073374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 732
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c2f0c1ecb61540b30f07def2a751d
+      internalID: -1497368591018981443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 733
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6573ea44ab92f242b49527470320cd0
+      internalID: 6743602564576054170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 733
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7339561b6c472f419496687b388ad7f
+      internalID: 7276870991121178724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 738
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cc49dade607a548b6a598cb2e0372c
+      internalID: 7410573565238767960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 553
+        width: 32
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39812acb7a47fab42a8da7ca65e7ba54
+      internalID: 661828431300757623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 553
+        width: 32
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70061716e0167148b2324e321355ac9
+      internalID: -6314369311998074668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 557
+        width: 46
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebffb4b3b655bd2479564469ab4b0449
+      internalID: 6992623826715345207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 678
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ec1ca937d1c844854112ac3988cae
+      internalID: 5083654194954731506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 676
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee226ef42d008d4fb29ba3a2965736a
+      internalID: 4542773159845617960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 678
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7e750dd6d60c46aa178bbf24f14bd
+      internalID: -2937106258672992424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 676
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c27589f21f53db44957d1a0e9ef3143
+      internalID: -6180110774798461542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_39
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 618
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4b52b3638d7be4487d591f2e2ab1bd
+      internalID: 9135821820325538520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 622
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba7740550060a34f87dde09d50539b9
+      internalID: 5213846819001273042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 620
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45458f4bbb1a5540965335dad22a999
+      internalID: -7101701683110652525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 621
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd2610f842d5549a9526e3dce8c717
+      internalID: -1618776216408779560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 553
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59340bf3111215742be436643c6a9c1e
+      internalID: -4239519584047792592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 553
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae9cb95bf48bf2498e05d6cc018a9eb
+      internalID: -5034080992206722286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_58
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 485
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9828d996fd93cf48a9055e88005c1d4
+      internalID: -4861274622012057543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_59
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 495
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1855b7bb131875240bbd29b880ff8e40
+      internalID: 207792353072474186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 494
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656fd3657fce63c46a698f96f23473aa
+      internalID: 3161940713881584462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 328
+        width: 65
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcabf25b602198242a61767d00d2a302
+      internalID: 5551106030444382330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_62
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 512
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5a4a517b3c9094fb26ee5651424dea
+      internalID: 7665538124112106278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_69
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 448
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c43e89abe1be43bf06986b21cfdb7
+      internalID: 8999923529614224346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 438
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88fb2fe92076af4d80fd9d6b7418328
+      internalID: -805982720666102253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_71
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 439
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5448f869cf67754387742db965e0382
+      internalID: -4736401578168955109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 438
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee05f4bc258323489e091c92c22d609
+      internalID: -4908088497452972473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 439
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5371dd8efe8c9141a4bf502864be47d
+      internalID: -1386235193176532394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_74
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 384
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c67b3cee6cf694cb40a362b732851b
+      internalID: -6312632204336394860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_87
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 367
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9585c028a1e65194ebb3a08969b02d79
+      internalID: 5867224340952397001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 374
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e361312db13be344c9820ae3192d4bf1
+      internalID: 4186661370126077613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 367
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899d231174af5ac4abd7c626cebaabd7
+      internalID: 6288040498653760152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_90
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 374
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d692dad72072340bc4ca39ee991a92
+      internalID: 4151594694199244367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_91
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 328
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502beb8a1e90b084f842dbe8d3ace829
+      internalID: 7825475175894069310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_94
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 355
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158afa0cefb368f45a33e9c0d670d5e7
+      internalID: -1627290103472782260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_96
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 305
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666de7cb5bc90344e975477f6c22f68c
+      internalID: -3792286116303568524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 305
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aadf17b1bbed1469daed984a37f649
+      internalID: 3405409800638977746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_98
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 313
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3344a335182665d4baa74bf0e9eb3eef
+      internalID: 8644127140828676982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_99
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 288
+        width: 110
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c51031cfb25785429bb4e219efd6814
+      internalID: 5831139954529461031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_100
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 303
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ece61526220e814bb12c6cc477d657a
+      internalID: 7003674185629777430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 294
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b0bc1ec2dc8a4da89843569c44239
+      internalID: -3843878766073386874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_108
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 191
+        width: 27
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64128bc9fd4bfb14092f9e09a0f8e9a6
+      internalID: 116655415232735337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_109
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 247
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce9150d2e982a342b7e651ee3933b67
+      internalID: -3159088329160365051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_110
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 247
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b25cf4505d8684ca3abfbac5de38fc
+      internalID: -900960505177652703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_111
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 248
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44f7a03988f9fd47bbccbafcb1e4766
+      internalID: 7136080417755674134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_121
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 235
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ebb7984dbd71346b9808485932b8ea
+      internalID: -3198040459972326989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_124
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 237
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f6af05539dee241b1f5fdf54e7c91c
+      internalID: 3793899495192412145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 189
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd6009ca15f70b4ab8cb71d1b4ab9c6
+      internalID: 111632173575254410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_126
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 189
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60a612c68eda0f4daf996b3aa247908
+      internalID: -3070750762912979912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_127
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 189
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75db52d0b0370a8468ddbd98580d3f65
+      internalID: 77011675659349431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_128
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 189
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a6ca8a5fe88e4da466b264e455bea
+      internalID: 7726662944056585156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_129
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 179
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe65577d77e190469cedf50bf3da143
+      internalID: -5723912583020920789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_130
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 162
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78789c30ec405d848af081a31ffd8db5
+      internalID: -3717741172441608709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_131
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 152
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e965ad3d7d374daca5917793fdd26
+      internalID: 3166816863582005383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_132
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 129
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c86c22e0e80eed4a824327187356e69
+      internalID: -4733438961670408703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_133
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 89
+        width: 190
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410bf528b3d7f2446b21987c30b3c44f
+      internalID: -1167326721044969650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_134
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 89
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24260aaf2d353f40a81c1fcb4b62430
+      internalID: -6088274001203473326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_juggalo-logo-png_4050105_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 237
+        width: 8
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1e42281b13420479760b31e96079c9
+      internalID: 6773117321462781919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2c3d7e701cf269c49b1d54145aea059f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
