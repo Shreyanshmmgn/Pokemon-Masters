@@ -8,6 +8,9 @@ TagManager:
   - Crystal
   - Pokeball
   - Pokemon
+  - Deadly
+  - Bird
+  - Charizard
   layers:
   - Default
   - TransparentFX
@@ -19,7 +22,7 @@ TagManager:
   - 
   - ash
   - pickachu
-  - 
+  - Solid
   - 
   - 
   - 

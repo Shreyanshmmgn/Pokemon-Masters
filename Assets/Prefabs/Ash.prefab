@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 6254598450458080372}
   - component: {fileID: 6254598450458080373}
   - component: {fileID: 6254598450458080370}
-  - component: {fileID: 6254598450458080374}
   - component: {fileID: 6254598450458080265}
   - component: {fileID: 6254598450458080375}
+  - component: {fileID: 7810970132196335791}
   m_Layer: 8
   m_Name: Ash
   m_TagString: Player
@@ -72,7 +72,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 3
   m_Sprite: {fileID: 21300000, guid: 082d65b5b241538478081e322dab0a99, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -103,27 +103,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!50 &6254598450458080374
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6254598450458080371}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0.5
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
 --- !u!114 &6254598450458080265
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -136,11 +115,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ed59470795b4f944a074839734982f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
-  rb: {fileID: 6254598450458080374}
-  isGrounded: 0
+  speed: 20
+  rb: {fileID: 7810970132196335791}
+  isGrounded: 1
   standing: 0
-  jumpForce: 5
+  jumpForce: 0.5
   maxSpeed: {x: 3, y: 0}
 --- !u!58 &6254598450458080375
 CircleCollider2D:
@@ -158,6 +137,27 @@ CircleCollider2D:
   m_Offset: {x: 0, y: -0.07}
   serializedVersion: 2
   m_Radius: 0.1
+--- !u!50 &7810970132196335791
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6254598450458080371}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1.5
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &6254598451851326157
 GameObject:
   m_ObjectHideFlags: 0
@@ -167,8 +167,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6254598451851326156}
-  - component: {fileID: 6254598451851326158}
   - component: {fileID: 6254598451851326159}
+  - component: {fileID: 1179141289}
   m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
@@ -190,20 +190,6 @@ Transform:
   m_Father: {fileID: 6254598450458080372}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6254598451851326158
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6254598451851326157}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0e345be4cf093ed49b2247675b746378, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 6254598450458080265}
-  pokemon: {fileID: 0}
 --- !u!61 &6254598451851326159
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -230,3 +216,16 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.1043051, y: 0.007069513}
   m_EdgeRadius: 0
+--- !u!114 &1179141289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6254598451851326157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e345be4cf093ed49b2247675b746378, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 6254598450458080265}

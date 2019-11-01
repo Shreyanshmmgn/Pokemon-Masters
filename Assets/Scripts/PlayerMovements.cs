@@ -6,7 +6,7 @@ public class PlayerMovements : MonoBehaviour
 {
     public float speed = 10.0f;
     public Rigidbody2D rb;
-    public bool isGrounded= false;
+    public bool isGrounded = false;
     public bool standing;
     public float jumpForce = 10.0f;
 
@@ -57,9 +57,13 @@ public class PlayerMovements : MonoBehaviour
         {
             rb.AddForce(new Vector2(0, 10), ForceMode2D.Impulse);
         }
-
+  
 
     }
+    // public void giveChild()
+    // {
+    //     GameObject ChildGameObject1 = gameObject.transform.GetChild(0).gameObject;
+    // }
 
 
 

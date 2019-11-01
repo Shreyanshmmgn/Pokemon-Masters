@@ -33,6 +33,7 @@ public class pokemonMovements : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         forceX = 0f;
         absVelx = Mathf.Abs(rb.velocity.x);
         v = Input.GetKeyDown("w");
@@ -84,6 +85,15 @@ public class pokemonMovements : MonoBehaviour
 
 
     }
+    // private void OnCollisionEnter2D(Collision2D other)
+    // {
+        
+    //     if (other.gameObject.tag == "Charizard")
+    //     {   print("Charizard collision detected");
+    //         animator.SetInteger("animPikachu", 5);
+    //         // onExplode();
+    //     }
+    // }
     private void FixedUpdate()
     {
         rb.AddForce(new Vector2(forceX, 0));
@@ -97,12 +107,12 @@ public class pokemonMovements : MonoBehaviour
             }
             else
             {
-                if(doubleJump)
+                if (doubleJump)
                 {
                     doubleJump = false;
-                    rb.velocity = new Vector2(rb.velocity.x,0);
+                    rb.velocity = new Vector2(rb.velocity.x, 0);
                     // resting y velocity
-                    rb.AddForce(new Vector2(0,jumpForce/1.25f), ForceMode2D.Impulse);
+                    rb.AddForce(new Vector2(0, jumpForce / 1.25f), ForceMode2D.Impulse);
                 }
             }
         }

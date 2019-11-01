@@ -2,18 +2,51 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class switch : MonoBehaviour
+public class Switch : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public doorTrigger[] doorTriggers;
     private Animator animator;
-    void Start()
+    public bool sticky;
+    private bool down;
+    private void Start()
     {
-        animator = getcomp
+        animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
-    void Update()
+
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        
+        animator.SetInteger("animState", 1);
+        down = true;
+        foreach (doorTrigger trigger in doorTriggers)
+        {
+            if (trigger != null)
+            {
+                trigger.Toggle(true);
+            }
+        }
+    }
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (sticky && down) return;
+        animator.SetInteger("animState", 2);
+        down = false;
+        foreach (doorTrigger trigger in doorTriggers)
+        {
+            if (trigger != null)
+            {
+                trigger.Toggle(false);
+            }
+        }
+    }
+    private void OnDrawGizmos() {
+        Gizmos.color = sticky ? Color.red : Color.green;
+        foreach(doorTrigger trigger in doorTriggers)
+        {
+            if(trigger != null)
+            {
+                Gizmos.DrawLine(transform.position, trigger.door.transform.position);
+            }
+        }
     }
 }
