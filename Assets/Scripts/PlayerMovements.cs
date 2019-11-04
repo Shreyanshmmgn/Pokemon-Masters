@@ -33,7 +33,7 @@ public class PlayerMovements : MonoBehaviour
             {
                 forceX = speed;
             }
-            transform.localScale = new Vector3(6.405936f, 6.405936f, 6.405936f);
+            transform.localScale = new Vector3(1f, 1f, 1f);
             animator.SetInteger("animState", 1);
 
         }
@@ -43,7 +43,7 @@ public class PlayerMovements : MonoBehaviour
             {
                 forceX = -speed;
             }
-            transform.localScale = new Vector3(-6.405936f, 6.405936f, 6.405936f);
+            transform.localScale = new Vector3(-1f, 1f, 1f);
             animator.SetInteger("animState", 1);
         }
         else

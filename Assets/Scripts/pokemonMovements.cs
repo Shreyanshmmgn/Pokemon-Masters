@@ -46,7 +46,7 @@ public class pokemonMovements : MonoBehaviour
             {
                 forceX = speed;
             }
-            transform.localScale = new Vector3(1.605f, 1.605f, 1.605f);
+            transform.localScale = new Vector3(1f, 1f, 1f);
             animator.SetInteger("animPikachu", 1);
         }
         else if (Input.GetKey("a"))
@@ -55,7 +55,7 @@ public class pokemonMovements : MonoBehaviour
             {
                 forceX = -speed;
             }
-            transform.localScale = new Vector3(-1.605f, 1.605f, 1.605f);
+            transform.localScale = new Vector3(-1f, 1f, 1f);
             animator.SetInteger("animPikachu", 1);
         }
         else

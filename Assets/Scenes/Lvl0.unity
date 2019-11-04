@@ -687,6 +687,24 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 73361732}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &73361734 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8604237034383860702, guid: d2d6b0520d01a1741b32404e0fca84fc,
+    type: 3}
+  m_PrefabInstance: {fileID: 73361732}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &73361735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 73361734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 830981d802a7eeb4693b4403b2fb7ea1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &192083802
 GameObject:
   m_ObjectHideFlags: 0
@@ -4290,16 +4308,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1672988728677190430, guid: 3154f665d65c29d44a126f5d8e078305,
-        type: 3}
-      propertyPath: m_SortingOrder
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 1672988728677190416, guid: 3154f665d65c29d44a126f5d8e078305,
         type: 3}
       propertyPath: doorTriggers.Array.data[0]
       value: 
       objectReference: {fileID: 1558909680}
+    - target: {fileID: 1672988728677190430, guid: 3154f665d65c29d44a126f5d8e078305,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3154f665d65c29d44a126f5d8e078305, type: 3}
 --- !u!1 &1143534065
