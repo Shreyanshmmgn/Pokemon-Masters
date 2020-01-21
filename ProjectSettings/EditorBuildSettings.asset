@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/StartingPAge.unity
     guid: ca1250772e36d494e951d34abbd92811
   - enabled: 1
+    path: Assets/Scenes/SelectPokemon.unity
+    guid: c2f9492c0b5ccc04281f2de81cce008d
+  - enabled: 1
     path: Assets/Scenes/Lvl0.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
@@ -18,8 +21,14 @@ EditorBuildSettings:
     path: Assets/Scenes/lvl2.unity
     guid: 7128270fcf7d6434aa8434b921f5400f
   - enabled: 1
-    path: Assets/Scenes/lvl 3.unity
+    path: Assets/Scenes/lvl3.unity
     guid: f024eafa1b68bb2449f5c1c9fb1af880
+  - enabled: 1
+    path: Assets/Scenes/lvlCharizard.unity
+    guid: e989a796703653342ba42a00ca0b5cdf
+  - enabled: 1
+    path: Assets/Scenes/lvl2Charizard.unity
+    guid: 3132991979cf42b408744dbacd4d8458
   - enabled: 1
     path: Assets/Scenes/Win.unity
     guid: 8550b592419961c45a07886e1f2f9212

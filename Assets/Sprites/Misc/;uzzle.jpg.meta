@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: eb14f1f82553b8043bd0e6140889af13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5785139652848052323
+    second: ;uzzle_0
+  - first:
+      213: -112152382931613047
+    second: ;uzzle_1
+  - first:
+      213: 2181457333319295710
+    second: ;uzzle_2
+  - first:
+      213: -8533326814053148202
+    second: ;uzzle_3
+  - first:
+      213: -3165812701667041358
+    second: ;uzzle_4
+  - first:
+      213: 5285224895719667530
+    second: ;uzzle_5
+  - first:
+      213: 8213897808597660767
+    second: ;uzzle_6
+  - first:
+      213: -8120081183070103293
+    second: ;uzzle_7
+  - first:
+      213: -2406149932779253422
+    second: ;uzzle_8
+  - first:
+      213: -2701632576377016158
+    second: ;uzzle_9
+  - first:
+      213: 1438305749830123511
+    second: ;uzzle_10
+  - first:
+      213: 1551012562677496904
+    second: ;uzzle_11
+  - first:
+      213: -2567515566895342385
+    second: ;uzzle_12
+  - first:
+      213: 16359138756842075
+    second: ;uzzle_13
+  - first:
+      213: -1261924534287366574
+    second: ;uzzle_14
+  - first:
+      213: 2363102187929739896
+    second: ;uzzle_15
+  - first:
+      213: 9152080746316605406
+    second: ;uzzle_16
+  - first:
+      213: -5642169120519661687
+    second: ;uzzle_17
+  - first:
+      213: 4003713068347724787
+    second: ;uzzle_18
+  - first:
+      213: -5589800310338605583
+    second: ;uzzle_19
+  - first:
+      213: -8189513713628392488
+    second: ;uzzle_20
+  - first:
+      213: -1918240327052460396
+    second: ;uzzle_21
+  - first:
+      213: -6026338062726498575
+    second: ;uzzle_22
+  - first:
+      213: 6783417222952188176
+    second: ;uzzle_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ;uzzle_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 720
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef2bd693545168489ec24fd369446cb
+      internalID: -5785139652848052323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ;uzzle_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 720
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be8eddddfad3a64dbb6acd34a56d5f9
+      internalID: -112152382931613047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ;uzzle_2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 720
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9486fa19cb16984c9f227357ce2cd62
+      internalID: 2181457333319295710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ;uzzle_3
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 720
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d83d125e3aa8844aabf97cfbdd62d7
+      internalID: -8533326814053148202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ;uzzle_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd83516cb1b1984cab86732bc6aa2e4
+      internalID: -3165812701667041358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ;uzzle_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6170329532b8b47847cd04fa6c08fc
+      internalID: 5285224895719667530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ;uzzle_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286df384adb0a674eaf87922d86a945c
+      internalID: 8213897808597660767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ;uzzle_7
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1f815af0d3fce47889ff5472c0c75b
+      internalID: -8120081183070103293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 688a07aaa6586874b93efec39e9f35d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

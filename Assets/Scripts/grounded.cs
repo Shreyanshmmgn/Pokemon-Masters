@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class grounded : MonoBehaviour
 {
-    // Start is called before the first frame update
+
     public PlayerMovements player;
 
     private void OnCollisionEnter2D(Collision2D other)

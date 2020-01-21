@@ -11,6 +11,9 @@ TagManager:
   - Deadly
   - Bird
   - Charizard
+  - Lightning
+  - Chain
+  - trees
   layers:
   - Default
   - TransparentFX

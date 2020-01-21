@@ -263,7 +263,7 @@ GameObject:
   - component: {fileID: 196385079}
   - component: {fileID: 196385078}
   m_Layer: 0
-  m_Name: thumb-1920-273289
+  m_Name: Pikachu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -342,7 +342,7 @@ GameObject:
   - component: {fileID: 344578405}
   - component: {fileID: 344578404}
   m_Layer: 0
-  m_Name: ce1ae1cc847b81444651f025d6348193
+  m_Name: Masters
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -404,7 +404,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 344578403}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.46, y: -0.297719, z: 0}
+  m_LocalPosition: {x: 0.46, y: -0.37, z: 0}
   m_LocalScale: {x: 1.2307, y: 1.2307, z: 1.2307}
   m_Children: []
   m_Father: {fileID: 0}
@@ -421,7 +421,7 @@ GameObject:
   - component: {fileID: 954903774}
   - component: {fileID: 954903773}
   m_Layer: 0
-  m_Name: pokemon-logo-png-pokemon-logo-png-2000
+  m_Name: Pokemon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -795,6 +795,7 @@ GameObject:
   - component: {fileID: 1379196654}
   - component: {fileID: 1379196653}
   - component: {fileID: 1379196652}
+  - component: {fileID: 1379196655}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -867,6 +868,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1379196655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1379196651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbb8a43fa81df349b0fcce97cb6c367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1418096553
 GameObject:
   m_ObjectHideFlags: 0

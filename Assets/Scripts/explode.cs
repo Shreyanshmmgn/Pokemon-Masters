@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class explode : MonoBehaviour
+public class Explode : MonoBehaviour
 {
     public GameManager manager;
     public cameraMovement cameraMovement;

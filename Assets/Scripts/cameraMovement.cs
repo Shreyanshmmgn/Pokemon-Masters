@@ -6,22 +6,26 @@ public class cameraMovement : MonoBehaviour
 {
     // Start is called before the first frame update
     // public Camera camera_1;
-    [SerializeField]
-    public Transform g1,g2;
-    [SerializeField]
-    public Vector2 intialPosition;
+    // private Transform camera_1;
+    [SerializeField] Transform g1, g2;
+    Vector3 cameraPos = Vector3.zero;
     public Animator animator;
+    public GameObject Poke;
+    private Vector3 offset = new Vector3(0, 0, -4);
+    [SerializeField] GameObject Pokemon;
+    [SerializeField] float X1, X2, Y1, Y2;
+    // Transform camPosition;
+    Vector3 camPosition;
+
     void Start()
     {
+        // cameraPos = camera_1.position;
         // camera_1 = GetComponent<Camera>();
-        animator = GetComponent<Animator>();
-        // intialPosition = camera_1.transform.position;     
-    }
+        // camera_1 = GetComponent<Transform>();
+        // animator = GetComponent<Animator>();
+        // intialPosition = camera_1.transform.position;    
+        Poke = GameObject.FindGameObjectWithTag("Charizard");
 
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
     public void newPosition()
     {
@@ -30,5 +34,17 @@ public class cameraMovement : MonoBehaviour
     public void newPosition2()
     {
         gameObject.transform.position = g1.transform.position;
+    }
+
+    private void FixedUpdate()
+    {
+        if (Poke)
+        {
+            camPosition = Pokemon.transform.position;
+            cameraPos.x = Mathf.Clamp(camPosition.x, X1, X2);
+            cameraPos.y = Mathf.Clamp(camPosition.y, Y1, Y2);
+            cameraPos = new Vector3(cameraPos.x, cameraPos.y, 0);
+            transform.position = cameraPos + offset;
+        }
     }
 }

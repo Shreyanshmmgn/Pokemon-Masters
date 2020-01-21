@@ -4,19 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class checkIfPuzleSolved : MonoBehaviour
 {
-    [SerializeField]
-    private Transform[] Images;
-    [SerializeField]
+
+    [SerializeField] private Transform[] Images;
     // private GameObject winText;
-    public bool allRight;
+    [SerializeField] public bool allRight;
     // private
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
     void Update()
     {
         if (Images[0].rotation.z == 0 &&
